@@ -1,5 +1,7 @@
 one:
   name: First widget
+  type: Widgets::NormalWidget
 
 two:
   name: Second widget
+  type: Widgets::SpecialWidget
